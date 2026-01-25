@@ -46,7 +46,7 @@ const separator = new SeparatorBuilder().setDivider(true).setSpacing(SeparatorSp
 
 ### **Section**
 
-Groups text, optionally with a thumbnail or button.
+Groups text, requires a thumbnail or button.
 
 ```js
 const { SectionBuilder, TextDisplayBuilder, ThumbnailBuilder } = require('discord.js');
