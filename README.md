@@ -1,10 +1,11 @@
-# Created by ZarScape — If you find this helpful, please leave a ⭐ on the repo!
+# Created by ZarScape - If you find this helpful, please leave a ⭐ on the repo!
 
+### You can also explore [this repository](https://github.com/ZarScape/discord.js-v14-v2-template), it’s a fully working Discord v2 component bot template built with Discord.js v14
 ---
 
 # Discord Components V2 Guide
 
-Discord's **Components V2** system allows you to create rich, interactive, and visually appealing messages entirely with components — no embeds required.  
+Discord's **Components V2** system allows you to create rich, interactive, and visually appealing messages entirely with components - no embeds required.  
 This guide walks you through the main component types, usage examples, and includes a **full slash command** demonstration.
 
 ---
